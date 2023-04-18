@@ -38,9 +38,13 @@ Step 1: Open a command prompt by typing cmd into the search bar
 You will type the following commands into the terminal and press enter.
 
 Step 2: conda create --name pragmatic_programming python=3.9
+
 Step 3: activate pragmatic_programming
+
 Step 4: Navigate to the folder where you saved the repository us the cd command
+
     e.g. cd Documents/SIOP2023/pragmatic_programming
+    
 Step 5: install the required packages us the following command: pip install -r requirements.txt
 
 # How to install PyCharm Community 
@@ -57,6 +61,9 @@ Guide: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.htm
 
 # How to upload your Anaconda environment to jupyter notebook
 guide: https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
-### Step 1: activate your conda environment
-### Step 2: type the following: conda install -c anaconda ipykernel
-### Step 3: type the following: python -m ipykernel install --user --name=pragmatic_programming
+
+Step 1: activate your conda environment
+
+Step 2: type the following: conda install -c anaconda ipykernel
+
+Step 3: type the following: python -m ipykernel install --user --name=pragmatic_programming
